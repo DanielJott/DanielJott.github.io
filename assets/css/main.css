@@ -2220,11 +2220,12 @@ input, select, textarea {
 
 			#main > section.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: rgba(255, 255, 255, 0.8);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
+					background-color: rgba(8, 49, 102, 0.8);
 				}
 
 				#main > section.dark strong {
